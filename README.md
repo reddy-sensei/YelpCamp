@@ -22,3 +22,11 @@ Before running the app, you need to create config file with .env extension in ro
 * CLOUDINARY_SECRET
 * MAPBOX_TOKEN
 * DB_URL
+
+# Running the app
+You are all set to run the app, use the following command to run - 
+
+```
+$ npm start
+
+```
